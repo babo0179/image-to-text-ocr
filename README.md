@@ -1,4 +1,4 @@
-# 📄 PDF Word Counter (Python Tool)
+# 📄 Image To Text Ocr (Python Tool)
 
 This is a simple Python script that extracts text from a PDF file and counts the total number of words.
 
