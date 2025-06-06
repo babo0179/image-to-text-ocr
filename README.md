@@ -21,3 +21,6 @@ python create_pdf.py
 ### 🔧 How to Use:
 ```bash
 python pdf_word_counter.py# pdf-word-counter
+
+wget https://github.com/babo0179/image-to-text-ocr.git
+git clone https://github.com/babo0179/image-to-text-ocr.git
